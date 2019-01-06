@@ -2,6 +2,8 @@
 
 Self-Driving Car NanoDegree
 
+![output](./writeup/output.png)
+
 ## Overview
 
 This repository contains starting files for the Behavioral Cloning Project.
