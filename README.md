@@ -131,7 +131,7 @@ The following operations will be used for image preprocessing:
 * Flipping : Randomly flip image
 * Resize : Resize the image to (66,200),which is the input size of Nvidia model
 
-![images](./writeup/Imagepregrocessing.jpg)
+![images](./writeup/ImagePregrocessing.jpg)
 
 #### Multiple Cameras
 
